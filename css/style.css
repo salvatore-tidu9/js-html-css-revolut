@@ -71,10 +71,6 @@ header {
     line-height: 45px;
 }
 
-.menu ul {
-    position: relative;
-}
-
 .menu li {
     list-style: none;
     display: inline-block;
@@ -104,7 +100,7 @@ header {
 .dropdown_menu {
     display: none;
     position: absolute;
-    width: 150px;
+    width: 200px;
     border-radius: 5px;
     box-shadow: 5px 5px 10px 2px #c0bcbc91;
     border: 1px solid lightgrey;
